@@ -1,0 +1,19 @@
+{
+  "name": "gradient-background-generator",
+  "version": "1.0.0",
+  "description": "Generates a linear-gradient background",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-Bojja/gradient-background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya-Bojja/gradient-background-generator/issues"
+  },
+  "homepage": "https://github.com/Aditya-Bojja/gradient-background-generator#readme"
+}
